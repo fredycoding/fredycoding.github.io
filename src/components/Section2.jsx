@@ -16,8 +16,7 @@ export const Section2 = () => {
         <div className='text-2xl mx-2 md:mx-96 mt-2'>
           <p className='mt-4 text-orange-100 text-lg p-4 text-center'>
             Programmer and Developer with more than 18 years of experience in Back-End, Front-End (FullStack),Technologies: PYTHON, DJANGO, JAVASCRIPT, REACT, .NET, JAVA, C++ </p>
-          <p className='mt-1 text-orange-100 text-lg text-center'>Bogotá, Colombia</p>
-          <p className='mt-1 text-orange-100 text-lg text-center'>(571) 456-7891</p>
+          <p className='mt-1 text-orange-100 text-lg text-center'>Bogotá, Colombia</p>  
           <p className='mt-1 text-orange-100 text-lg text-center'>creandoappscolombia@gmail.com</p>
         </div>
 
